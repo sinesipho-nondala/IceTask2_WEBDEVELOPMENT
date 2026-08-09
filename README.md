@@ -8,5 +8,6 @@ This is the repository for WEDE5020 ICE TASK 2. I have created a public GitHub r
 - contact-us.html
 - enquiry.html
 - products.html
-- Plus shared header/footer component files
-  This is a complete base structure for my business websites, following correct file/folder naming conventions and submission requirements.
+- Plus shared header/footer component files.
+
+This is a complete base structure for my business websites, following correct file/folder naming conventions and submission requirements.
