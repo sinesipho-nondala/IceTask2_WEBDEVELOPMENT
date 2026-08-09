@@ -1,2 +1,3 @@
 # IceTask2_WEBDEVELOPMENT
-Html website coding
+# Sinesipho Nondala
+# Organiztion: Sine's Root & Care
