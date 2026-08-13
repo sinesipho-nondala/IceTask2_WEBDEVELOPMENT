@@ -23,7 +23,7 @@ This is a complete base structure for my business websites, following correct fi
 ## Timeline and Milestones
 - Week1: Repository setup + File structure created
 - Week2: Base Html pages + navigation links built
-         Brand styling, colors applied, fonts
+ -        Brand styling, colors applied, fonts
 - Week3: Full content added onto all pages
-- 
-- 
+- Testing, fixing links + layout polish
+- Week4: Final updates + README completed + push
