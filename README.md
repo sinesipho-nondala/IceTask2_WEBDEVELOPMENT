@@ -18,3 +18,12 @@ This is a complete base structure for my business websites, following correct fi
 - Provide functional navigation, enquiry forms, and contact details.
 - Apply consistent styling: Lucinda Bright font, chocolate-coffee-rose-gold color palette.
 - Follow proper version control, file structure, and documentation standards
+------------
+
+## Timeline and Milestones
+- Week1: Repository setup + File structure created
+- Week2: Base Html pages + navigation links built
+         Brand styling, colors applied, fonts
+- Week3: Full content added onto all pages
+- 
+- 
