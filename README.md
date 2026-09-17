@@ -32,3 +32,11 @@ Follow proper version control, file structure, and documentation standards.
 - Brand styling, colors applied, fonts
 - Week3: Full content added onto all pages, testing, fixing links + layout polish
 - Week4: Final updates + README completed + push
+-------
+## The Changes that I have made:
+After I have received my feedback from Part1 I ahd to make some major changes.
+Starting with my folder from Github. I had to make alot of changes in my index folder.
+- Starting with the structure. 
+- Then I had to write new code.
+
+I went inside my Github repository and I had to reupload my index.html folder. The reason why I did this was because I could see the changes that I wrote in VS Code.
