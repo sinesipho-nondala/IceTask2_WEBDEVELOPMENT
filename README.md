@@ -1,29 +1,34 @@
 # IceTask2_WEBDEVELOPMENT
-# Sinesipho Nondala
-# Business: Sine's Root & Care
+
+
+
+**Student Name:** Sinesipho Nondala
+**Student Number:** ST10515267 <!--New Heading-->
+**Module:** WEDE5020 - Web Development <!--New Heading-->
+
+
 ## What is this about?
-This is the repository for WEDE5020 ICE TASK 2. I have created a public GitHub repository, proper website folder website structure, and 5+ valid HTML pages as required:
-- index.html (Home page)
+This is the repsoitory for WEDE5020 ICE TASK 2. I have created a public GitHub repository, proper website folder, website structure and 5+ valid HTML pages as required:
+- index.html(Home page)
 - about-us.html
 - contact-us.html
 - enquiry.html
 - products.html
-- Plus shared header/footer component files.
-
+- Plus Shared header/footer component files.
 This is a complete base structure for my business websites, following correct file/folder naming conventions and submission requirements.
+---------
 ## Website Goals and Objectives
-- Builds professional online home for the brand that reflects its warm, elegant identity.
-- Clearly communicate the brand story, mission, and values
-- Present product ranges and hair care equipment neatly.
-- Provide functional navigation, enquiry forms, and contact details.
-- Apply consistent styling: Lucinda Bright font, chocolate-coffee-rose-gold color palette.
-- Follow proper version control, file structure, and documentation standards
-------------
 
+- Builds professional online home for the brand that reflects its warm, elegant identity.
+Clearly communicate the brand story, mission, and values.
+Present product ranges and hair care equipment neatly.
+Provide functional navigation, enquiry forms, and contact details.
+Apply consistent styling: Lucinda Bright font, chocolate-coffee-rose-gold color pallete.
+Follow proper version control, file structure, and documentation standards.
+-------
 ## Timeline and Milestones
 - Week1: Repository setup + File structure created
-- Week2: Base Html pages + navigation links built
+- Week2: Base HTML pages + navigation links built
 - Brand styling, colors applied, fonts
-- Week3: Full content added onto all pages
-- Testing, fixing links + layout polish
+- Week3: Full content added onto all pages, testing, fixing links + layout polish
 - Week4: Final updates + README completed + push
